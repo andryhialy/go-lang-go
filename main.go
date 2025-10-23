@@ -3,5 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello, World. Let's go Golang, go!!!")
+	fmt.Println("Welcome to our conference booking application")
+	fmt.Println("Get your tickets here to attend")
 }
